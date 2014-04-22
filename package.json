@@ -2,7 +2,7 @@
   "name": "node-neurosky",
   "description": "A Node.js client library for the MindWave device from NeuroSky",
   "author": "Daniel Luxemburg <daniel.luxemburg@gmail.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "license" : {
     "type": "MIT",
